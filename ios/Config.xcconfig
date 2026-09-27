@@ -1,0 +1,15 @@
+﻿# Generated from shared/parameters.env
+# Run: powershell -File scripts/sync-parameters.ps1
+
+PACKS_URL = https://dashing-llama-bed5cc.netlify.app/packs.json
+AWS_REGION = ap-south-1
+AWS_S3_BUCKET = 
+AWS_S3_OBJECT_KEY = packs.json
+IAP_PRODUCT_3DAY = app.lovecards.fiftytwo.sub.3day
+IAP_PRODUCT_7DAY = app.lovecards.fiftytwo.sub.7day
+IAP_PRODUCT_MONTHLY = app.lovecards.fiftytwo.sub.monthly
+IAP_PRODUCT_YEARLY = app.lovecards.fiftytwo.sub.yearly
+TERMS_URL = https://dashing-llama-bed5cc.netlify.app/terms.html
+PRIVACY_URL = https://dashing-llama-bed5cc.netlify.app/privacy.html
+SUPPORT_EMAIL = support@52lovecards.app
+PRODUCT_BUNDLE_IDENTIFIER = app.lovecards.fiftytwo

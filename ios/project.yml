@@ -1,0 +1,42 @@
+name: FiftyTwoLoveCards
+options:
+  bundleIdPrefix: app.lovecards
+  deploymentTarget:
+    iOS: "16.0"
+  xcodeVersion: "15.0"
+configFiles:
+  Debug: Config.xcconfig
+  Release: Config.xcconfig
+targets:
+  FiftyTwoLoveCards:
+    type: application
+    platform: iOS
+    sources:
+      - FiftyTwoLoveCards
+      - path: ../shared/packs.json
+        buildPhase: resources
+        optional: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: app.lovecards.fiftytwo
+        INFOPLIST_FILE: FiftyTwoLoveCards/Info.plist
+        TARGETED_DEVICE_FAMILY: "1"
+        INFOPLIST_KEY_CFBundleDisplayName: 52 Love Cards
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        SWIFT_VERSION: "5.0"
+        DEVELOPMENT_TEAM: ""
+    info:
+      path: FiftyTwoLoveCards/Info.plist
+      properties:
+        PACKS_URL: $(PACKS_URL)
+        IAP_PRODUCT_3DAY: $(IAP_PRODUCT_3DAY)
+        IAP_PRODUCT_7DAY: $(IAP_PRODUCT_7DAY)
+        IAP_PRODUCT_MONTHLY: $(IAP_PRODUCT_MONTHLY)
+        IAP_PRODUCT_YEARLY: $(IAP_PRODUCT_YEARLY)
+        TERMS_URL: $(TERMS_URL)
+        PRIVACY_URL: $(PRIVACY_URL)
+        SUPPORT_EMAIL: $(SUPPORT_EMAIL)
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoads: false
+        UIRequiresFullScreen: true

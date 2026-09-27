@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>52 Love Cards</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchScreen</key>
+	<dict/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>PACKS_URL</key>
+	<string>$(PACKS_URL)</string>
+	<key>IAP_PRODUCT_3DAY</key>
+	<string>$(IAP_PRODUCT_3DAY)</string>
+	<key>IAP_PRODUCT_7DAY</key>
+	<string>$(IAP_PRODUCT_7DAY)</string>
+	<key>IAP_PRODUCT_MONTHLY</key>
+	<string>$(IAP_PRODUCT_MONTHLY)</string>
+	<key>IAP_PRODUCT_YEARLY</key>
+	<string>$(IAP_PRODUCT_YEARLY)</string>
+	<key>TERMS_URL</key>
+	<string>$(TERMS_URL)</string>
+	<key>PRIVACY_URL</key>
+	<string>$(PRIVACY_URL)</string>
+	<key>SUPPORT_EMAIL</key>
+	<string>$(SUPPORT_EMAIL)</string>
+</dict>
+</plist>

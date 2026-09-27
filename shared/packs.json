@@ -1,0 +1,1083 @@
+{
+  "version": 4,
+  "packs": [
+    {
+      "id": "couple",
+      "name": "Couple",
+      "blurb": "Questions that leave you feeling closer.",
+      "cards": [
+        {
+          "id": "couple-1",
+          "text": "What ordinary weekday moment with them would you replay if you could?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-2",
+          "text": "Which of their laughs is your favorite, and what usually causes it?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-3",
+          "text": "What is one thing they do that makes you feel chosen, not just included?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-4",
+          "text": "If you planned a perfect nothing-day together, how would it start?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-5",
+          "text": "What compliment from them do you still remember word for word?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-6",
+          "text": "Hold their hand and name three things you noticed about them this week.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-7",
+          "text": "Tell them a story about the first time you felt proud to be theirs.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-8",
+          "text": "What small ritual would you like to start as a pair this month?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-9",
+          "text": "What is a tiny way they take care of you that they might not notice?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-10",
+          "text": "Say one thing you want more of together, without blaming anyone.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-11",
+          "text": "What song would you put on if you wanted them to come sit closer?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-12",
+          "text": "Name a habit of theirs you secretly hope never changes.",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-13",
+          "text": "If you had one extra hour together this week, how would you spend it?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-14",
+          "text": "Tell them the nicest thing they did that they probably forgot.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-15",
+          "text": "What would a lazy Sunday with them look like in perfect detail?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-16",
+          "text": "Hold eye contact and say one thing you are grateful they brought into your life.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-17",
+          "text": "What is a small weekday text from them that always lands well?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-18",
+          "text": "Which of their everyday outfits do you notice first, and why?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-19",
+          "text": "If you could bottle one hour of your relationship, which hour would it be?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "couple-20",
+          "text": "Tell them one thing you want to try together that costs almost nothing.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "couple-21",
+          "text": "What nickname or tone of voice from them makes you feel safest?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        }
+      ]
+    },
+    {
+      "id": "soulmates",
+      "name": "Soulmates",
+      "blurb": "Get real and go a little deeper.",
+      "cards": [
+        {
+          "id": "soul-1",
+          "text": "When do they feel most like home to you?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-2",
+          "text": "What part of their inner world do you still want more time inside?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-3",
+          "text": "If you had to describe their kindness in one scene, what would it be?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "soul-4",
+          "text": "What fear of yours do they already know how to sit with?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-5",
+          "text": "Look at them for ten seconds, then say the first true thing you feel.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-6",
+          "text": "Name a future version of the two of you that you actually want, not a fantasy.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-7",
+          "text": "What would you protect in this relationship even on a hard week?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-8",
+          "text": "Where do you still need to be braver with them?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-9",
+          "text": "What do you trust them with that you do not trust easily?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-10",
+          "text": "Finish this sentence out loud: I feel closest to you when…",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "soul-11",
+          "text": "What part of their personality still surprises you?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-12",
+          "text": "When did you first think: this person gets me?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-13",
+          "text": "What do you hope they never have to carry alone?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-14",
+          "text": "Tell them a quality you borrowed from them without meaning to.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "soul-15",
+          "text": "Where do you still want to grow as a pair this year?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-16",
+          "text": "Say the sentence you wish you had said on a hard day, and say it now.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-17",
+          "text": "What do you hope they still believe about you in ten years?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-18",
+          "text": "When do you feel most like a team, even if nothing special is happening?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-19",
+          "text": "What is a private language the two of you already have?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "soul-20",
+          "text": "Tell them one way they make hard days less sharp.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "soul-21",
+          "text": "What future ordinary Tuesday with them already feels like a gift?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "Deep",
+      "blurb": "Rare questions meant for a quiet night.",
+      "cards": [
+        {
+          "id": "deep-1",
+          "text": "What belief about love did you inherit, and have you kept it?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-2",
+          "text": "When you shut down, what would you want them to do instead of guessing?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-3",
+          "text": "What apology do you still owe someone, and what did it teach you?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-4",
+          "text": "What does feeling safe with a person actually look like in your body?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-5",
+          "text": "Share a hope you have not said out loud this year.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-6",
+          "text": "Tell them one way they have changed you for the better.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "deep-7",
+          "text": "What topic do you avoid, and what would make it safer?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "deep-8",
+          "text": "If this relationship ended tomorrow, what would you regret not saying?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "deep-9",
+          "text": "What does a good life look like to you at sixty, in one picture?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-10",
+          "text": "Name a hard truth you are ready to say kindly tonight.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-11",
+          "text": "What does being understood feel like to you, in one memory?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-12",
+          "text": "What story about yourself do you edit when you are afraid?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-13",
+          "text": "Who taught you how to apologize, and did it actually work?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-14",
+          "text": "Share a value you will not compromise, even for love.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-15",
+          "text": "What would you want them to know if you went quiet for a week?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "deep-16",
+          "text": "Name a fear you can say out loud tonight because they are here.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-17",
+          "text": "What does repair after a disagreement look like when it actually works?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-18",
+          "text": "What part of your childhood still shows up in how you love?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-19",
+          "text": "What would you want them to remember about you if words failed tonight?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-20",
+          "text": "Share a boundary you are proud you learned to name.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "deep-21",
+          "text": "What hope feels too tender to say casually, and can you say it now?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        }
+      ]
+    },
+    {
+      "id": "long_distance",
+      "name": "Long distance",
+      "blurb": "For calls that should be hard to hang up.",
+      "cards": [
+        {
+          "id": "ld-1",
+          "text": "What time of day is hardest when you are apart, and why?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-2",
+          "text": "What should the next visit include that a video call cannot?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-3",
+          "text": "How do you want to be messaged when they are busy, not silent?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-4",
+          "text": "What object in your space currently stands in for them?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-5",
+          "text": "Send or say the thing you have been saving for 'when we are together.'",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-6",
+          "text": "Plan the first hour of the next reunion out loud, in detail.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-7",
+          "text": "What does missing them feel like, in one honest sentence?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-8",
+          "text": "What timezone habit of theirs do you already know by heart?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-9",
+          "text": "How do you want to end a call so it does not feel like a drop?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-10",
+          "text": "Describe your next goodnight as if they were already in the room.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-11",
+          "text": "What is the first thing you want to do when the distance ends for a bit?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-12",
+          "text": "How do you want to be wished good morning when they wake first?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-13",
+          "text": "What photo from their day would make you feel included?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-14",
+          "text": "Describe your side of the bed or sofa as if they were arriving tonight.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-15",
+          "text": "What is one small digital ritual you want to keep until you are in the same city?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-16",
+          "text": "Send the voice note you have been overthinking, then tell them why.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-17",
+          "text": "What is the first sound you want to hear when you are together again?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-18",
+          "text": "How do you want to be missed, without it turning into pressure?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "ld-19",
+          "text": "What local detail from their day do you want them to narrate more often?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-20",
+          "text": "Plan a twenty-minute call that does not feel like a status update.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "ld-21",
+          "text": "What would a shared morning look like if you woke up in the same city tomorrow?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        }
+      ]
+    },
+    {
+      "id": "spicy",
+      "name": "Spicy",
+      "blurb": "Flirty prompts, still on one phone.",
+      "cards": [
+        {
+          "id": "spicy-1",
+          "text": "What kind of attention from them feels flirty without being a performance?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-2",
+          "text": "What is a yes you have been waiting for them to ask?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-3",
+          "text": "Where do you like to be kissed that you have not mentioned lately?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-4",
+          "text": "What mood lighting, music, or timing actually helps you feel close?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "spicy-5",
+          "text": "Whisper one specific thing you want more of this week.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-6",
+          "text": "Give them a thirty-second slow compliment that is not about looks.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "spicy-7",
+          "text": "What is off-limits right now, said clearly and kindly?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-8",
+          "text": "What outfit of theirs lives rent-free in your head?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "spicy-9",
+          "text": "What kind of teasing feels fun, and what kind feels sharp?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-10",
+          "text": "Name one slow, private thing you want to do before the week ends.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-11",
+          "text": "What kind of look from them still makes your stomach drop in a good way?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-12",
+          "text": "What is a flirty text you wish they would send on an ordinary Tuesday?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-13",
+          "text": "Where do you want their hands to linger a little longer?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-14",
+          "text": "Tell them one thing they do that feels intimate even in public.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "spicy-15",
+          "text": "What pace actually works for you when things get close?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-16",
+          "text": "Give them a slow ten-second compliment that is only for them.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-17",
+          "text": "What kind of closeness do you want more of that is not a performance?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-18",
+          "text": "What time of day are you most open to being wanted?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "spicy-19",
+          "text": "What is a yes that still needs to be asked out loud?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-20",
+          "text": "Tell them one thing they do that feels quietly charged.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "spicy"
+        },
+        {
+          "id": "spicy-21",
+          "text": "Name a slow evening you want, start to finish, without rushing the ending.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "spicy"
+        }
+      ]
+    },
+    {
+      "id": "wyr",
+      "name": "Would you rather",
+      "blurb": "Two options. Pick one and talk.",
+      "cards": [
+        {
+          "id": "wyr-1",
+          "text": "Would they rather a surprise weekend or a planned one they can look forward to?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-2",
+          "text": "Would they rather talk for hours or sit in easy quiet?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-3",
+          "text": "Would they rather cook together or be taken out with zero decisions?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-4",
+          "text": "Would you rather tell an embarrassing story about yourself or hear theirs first?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-5",
+          "text": "Would you rather dance in the kitchen now or take a night walk?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-6",
+          "text": "Would they rather more words of affection or more unprompted help?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "medium"
+        },
+        {
+          "id": "wyr-7",
+          "text": "Would you rather skip a card or double down and go one layer deeper?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "wyr-8",
+          "text": "Would they rather a packed social Saturday or a locked-in night at home?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-9",
+          "text": "Would they rather you plan the date or they surprise you?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-10",
+          "text": "Would you rather swap phones for a playlist or swap seats and drive their usual route?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-11",
+          "text": "Would they rather a handwritten letter or a voice memo they can replay?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-12",
+          "text": "Would they rather rain and a blanket or sun and a long walk?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-13",
+          "text": "Would you rather swap favorite meals or swap favorite playlists for a week?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-14",
+          "text": "Would they rather be surprised at home or meet you somewhere new?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-15",
+          "text": "Would you rather tell a secret from age sixteen or from last month?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "wyr-16",
+          "text": "Would they rather more morning time or more late-night talking?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-17",
+          "text": "Would they rather a long breakfast or a long night walk?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-18",
+          "text": "Would they rather you remember a date or remember a tiny preference?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-19",
+          "text": "Would you rather swap playlists or swap photo albums for an hour?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-20",
+          "text": "Would they rather a surprise at home or a planned outing they can dress for?",
+          "mood": "romantic",
+          "roundType": "know_me",
+          "intensity": "light"
+        },
+        {
+          "id": "wyr-21",
+          "text": "Would you rather tell a story from this week or from the first month you knew them?",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        }
+      ]
+    },
+    {
+      "id": "dares",
+      "name": "Dares",
+      "blurb": "Tiny actions you can do right now.",
+      "cards": [
+        {
+          "id": "dare-1",
+          "text": "Do a thirty-second impression of how they say your name.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-2",
+          "text": "Write a two-line poem about tonight and read it.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-3",
+          "text": "Swap phones for one photo you would actually post of this evening.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "dare-4",
+          "text": "Make them a tiny playlist title for this week and explain it.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-5",
+          "text": "Offer a sincere toast as if this were year twenty.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "dare-6",
+          "text": "Ask them a question you have never asked, then wait without filling the silence.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "dare-7",
+          "text": "Give them a slow hug until they let go first.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-8",
+          "text": "Send one sentence to them as a note on the lock screen, then show it.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-9",
+          "text": "Recount a memory of them in sixty seconds, no pauses to plan.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "dare-10",
+          "text": "Choose a song, play ten seconds, and say why it is theirs.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-11",
+          "text": "Stand up and recreate the first time you noticed them, in ten seconds.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-12",
+          "text": "Put a song on and dance badly on purpose until they laugh.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-13",
+          "text": "Write one word on their palm that is true about tonight.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-14",
+          "text": "Take a photo together that you would actually keep, not perform.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-15",
+          "text": "Say their full name slowly, then say why it sounds like home.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "dare-16",
+          "text": "Set a two-minute timer and only ask questions, no statements.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "medium"
+        },
+        {
+          "id": "dare-17",
+          "text": "Say three true things about their face without using the word beautiful.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-18",
+          "text": "Put your phones face down for two minutes and only look at each other.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-19",
+          "text": "Hum a song that reminds you of them until they guess it.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-20",
+          "text": "Write one sentence on a scrap of paper, fold it, and let them keep it.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        },
+        {
+          "id": "dare-21",
+          "text": "Do their signature stretch or stance for five seconds, then laugh about it.",
+          "mood": "challenge",
+          "roundType": "your_turn",
+          "intensity": "light"
+        }
+      ]
+    }
+  ]
+}

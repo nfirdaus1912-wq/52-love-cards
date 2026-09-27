@@ -1,0 +1,33 @@
+name: iOS compile
+
+on:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch:
+
+jobs:
+  compile:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        working-directory: ios
+        run: xcodegen generate
+
+      - name: Compile for iOS Simulator
+        working-directory: ios
+        run: |
+          xcodebuild \
+            -project FiftyTwoLoveCards.xcodeproj \
+            -scheme FiftyTwoLoveCards \
+            -configuration Debug \
+            -destination "generic/platform=iOS Simulator" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            build
