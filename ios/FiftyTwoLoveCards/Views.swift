@@ -196,8 +196,10 @@ struct HomeView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
             HStack {
-                Text("Select a ").font(.title.bold()).foregroundStyle(.white) +
-                Text("Pack").font(.title.bold()).foregroundStyle(pink)
+                HStack(spacing: 0) {
+                    Text("Select a ").font(.title.bold()).foregroundStyle(.white)
+                    Text("Pack").font(.title.bold()).foregroundStyle(pink)
+                }
                 Spacer()
                 Button { model.go(.settings) } label: {
                     Image(systemName: "gearshape.fill").foregroundStyle(.white)
